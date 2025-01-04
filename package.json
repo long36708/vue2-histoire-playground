@@ -1,0 +1,20 @@
+{
+  "name": "vue2-histoire-playground",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "story:dev": "histoire dev",
+    "story:build": "histoire build",
+    "story:preview": "histoire preview"
+  },
+  "dependencies": {
+    "vue": "^2.7.15"
+  },
+  "devDependencies": {
+    "histoire": "^0.17.17",
+    "@histoire/plugin-vue2": "^0.17.17",
+    "@vitejs/plugin-vue2": "^2.3.1",
+    "vite": "^5.0.11",
+    "vue-template-compiler": "^2.7.15"
+  }
+}
