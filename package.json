@@ -11,10 +11,13 @@
     "vue": "2.7.16"
   },
   "devDependencies": {
-    "histoire": "0.17.17",
-    "@histoire/plugin-vue2": "0.17.17",
     "@vitejs/plugin-vue2": "^2.3.1",
-    "vite": "^5.0.11",
+    "longmo-histoire": "2.0.0",
+    "histoire-plugin-vue2": "2.0.0",
+    "vite": "^7.0.0",
     "vue-template-compiler": "2.7.16"
+  },
+  "volta": {
+    "node": "22.21.1"
   }
 }
